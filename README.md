@@ -12,6 +12,6 @@ gradle 4.10.2
 
 template engine - mustache
 
-Database - AWS RDS MariaDB 10.6.10
+Database - AWS RDS MySQL 8.0.28
 
 AWS EC2 Amazon Linux 2(t2.micro)
