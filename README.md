@@ -10,8 +10,8 @@ springBoot 2.1.7
 
 gradle 4.10.2
 
-template engine mustache
+template engine - mustache
 
-Database h2(will be changed)
+Database - AWS RDS MariaDB 10.6.10
 
 AWS EC2 Amazon Linux 2(t2.micro)
