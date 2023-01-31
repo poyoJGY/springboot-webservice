@@ -12,4 +12,4 @@ gradle 4.10.2
 
 Database h2(will be changed)
 
-AWS EC2 Amazon Linux 2
+AWS EC2 Amazon Linux 2(t2.micro)
