@@ -1,4 +1,6 @@
-# springboot-webservice(project)
+# springboot-webservice
+
+## Project Configuration
 
 Java 8
 
