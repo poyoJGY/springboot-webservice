@@ -15,3 +15,5 @@ template engine - mustache
 Database - AWS RDS MySQL 8.0.28
 
 AWS EC2 Amazon Linux 2(t2.micro)
+
+Travis CI
